@@ -1,0 +1,2 @@
+# Redmiteszt
+Ripo teszt tanuló
